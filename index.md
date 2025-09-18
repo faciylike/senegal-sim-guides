@@ -54,3 +54,10 @@ layout: default
 *   **频段兼容性：** 塞内加尔主要使用 **3G (UMTS 900/2100) 和 4G LTE (Bands 3, 7, 20)**。绝大多数2020年后生产的全球版手机（iPhone、三星Galaxy系列、华为P/Mate系列等）都没问题。如果你带的是一部非常老旧的手机，或者某些仅支持特定频段（如只支持北美频段）的手机，就可能遇到信号弱甚至无服务的情况。出发前查查手机参数吧，磨刀不误砍柴工。
 
 ## 五、
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Senegal eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/senegal-data-plans)
